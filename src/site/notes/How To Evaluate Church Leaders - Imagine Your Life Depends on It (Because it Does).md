@@ -84,10 +84,10 @@ However, rather than seeking truth by dividing God's word and discovering how th
 #### Example 2
 From the pulpit to invite giving, an elder said the following:
 
->*And I think this is the one thing that God has said, test me on it, right? Because he promised to bless us. It's not like a requirement in the Bible anymore, but it is something that we can do as an act of faith, as a way to stand up against what the world says, but stand up for what we believe in.*[^15]
+> *And I think this is the one thing that God has said, test me on it, right? Because he promised to bless us. It's not like a requirement in the Bible anymore, but it is something that we can do as an act of faith, as a way to stand up against what the world says, but stand up for what we believe in.*[^15]
 
 
-On the one hand, this is not a true teaching.  There's no clear exposition.  But it implies an understanding of Scripture which is not right.
+On the one hand, this is not a true teaching.  There's no clear exposition.  But it implies an understanding of Scripture which is not right.  
 
 Again, the intent is not nitpicking every casual statement.  But if standing before a congregation and asking people for their money AND using Scripture to do so AND proclaiming what this act represents in terms of faith....this should be closer to the mark than it was.
 
@@ -100,9 +100,11 @@ I spend more time on money, but consider the reference.
 
 Most heretical interpretation then proceed to talk about material blessings that come from God.
 
+Learn more how to cultivate healthy relationship with money in your church and removing the prosperity gospel by clicking here, "[[Slaying Mammon: Creating Healthy Relationships with Money and God\|Slaying Mammon: Creating Healthy Relationships with Money and God]]".
+
 The second, which doesn't have enough there, but would be worth a deep-dive in terms of the thinking and world view, is how does giving actually show "faith," and standing up to the world?
 
-When it comes to faith, is the person saying this giving according to Scripture?  We'll see how some church leaders are accessing this to avoid this through transparency into a leaders finances.
+When it comes to faith, is the person saying this giving according to Scripture?  We'll see how some church leaders building healthier relationships with money through transparency.
 
 ### Expression of the Spiritual Gifts through Ephesians
 
@@ -255,6 +257,33 @@ If, in the course of doing life with the person, it's not evident in word and de
 
 But until we are able to live with a repentant life and realize that Christ didn't come primarily to provide present-tense blessings, but life in eternity, where all of these material things will hold no value and stock, if that isn't present fully in the person, the stories, the life choices, the language day to day....it's probably not Christ at the center.
 
+## Next Steps
+For candidates or for the final vote, everyone should consider the criteria above and come up with a clear answer:[^17]
+
+- Yes: I have first-person evidence and believe this capability has been met
+- Not Yet: I have an absence of evidence and would like to learn more
+- No: I have first-person experience of the opposite of what we want to see
+
+This is better than a generic "accept what we have decided upon" and gives an edifying experience.  The lack of evidence is an important one.  Without that option, people will feel pressued into going with the default.
+
+### How not to use this
+This is for the discernment process.
+
+Not for the training.
+
+The challenge with training with outcomes it that it leads to people who "study to the test."
+
+The Scriptures warn of this in the parable of the Rich Young Ruler.[^18]
+
+The Rich Young Ruler implicitly rejected the premise of the Gospel because he believed he was already good.  He had earned, through hard work and diligence, righteousness.  That it was tied to material wealth and **he would not give it up** revealed this underlying performative approach.
+
+It's both the hardest part of following Jesus.  And the most freeing.
+
+Teaching to test won't weed them out.  And I do believe it's important to weed these out from leadership because the "Leaven Effect" I wrote about earlier.
+
+If you believe leadership matters, both in educating your flock how to discern, and in raising them, clicik here to learn how to enroll your church in Eldership: True Spiritual Leadership in an Age of Compromise.
+
+
 ### Why this matters
 A common recourse underlying decisions to perhaps lower the bar is a need to do this.  Fill the slots.  Maybe it's a fast-food approach to leadership of "on the job training" versus the brain surgeon approach of deep qualification.
 
@@ -294,3 +323,5 @@ Don't fill an empty slot.  Plant seeds ready to bloom.
 [^14]: [Detoxing From The Power Of Money Over Our Life with Andy Crouch - YouTube](https://youtu.be/Jks7cI4k_18)
 [^15]: [Radiance Sunday Service | 11/27/2022 | A Case for Hope | Isaiah 52:1-12 - YouTube](https://youtube.com/clip/UgkxzvZegultbXrFnBqeYS5LaUMODr5tSW_B)
 [^16]: [Prosperity Gospel | Topics | Christianity Today](https://www.christianitytoday.com/ct/topics/p/prosperity-gospel/)
+[^17]:  Above all, my brothers and sisters, do not swear—not by heaven or by earth or by anything else. All you need to say is a simple “Yes” or “No.” Otherwise you will be condemned.
+[^18]: 17 As He was setting out on a journey, a man ran up to Him and knelt before Him, and asked Him, “Good Teacher, what shall I do so that I may inherit eternal life?” 18 But Jesus said to him, “Why do you call Me good? No one is good except God alone. 19 You know the commandments: ‘Do not murder, Do not commit adultery, Do not steal, Do not give false testimony, Do not defraud, Honor your father and mother.’” 20 And he said to Him, “Teacher, I have kept all these things from my youth.” 21 Looking at him, Jesus showed love to him and said to him, “One thing you lack: go and sell all you possess and give to the poor, and you will have treasure in heaven; and come, follow Me.” 22 But he was deeply dismayed by these words, and he went away grieving; for he was one who owned much property. (Mark10:17-27)
