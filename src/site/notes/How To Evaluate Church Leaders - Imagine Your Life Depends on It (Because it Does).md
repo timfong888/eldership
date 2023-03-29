@@ -3,17 +3,23 @@
 ---
 
 
-Members of the church, now more than at any time, need to have clear ways to discern proper leadership.  Without it, there's very little oversight into who becomes a leader, paid or volunter, within a church.
+Members of the church, now more than at any time, need to have clear ways to discern proper leadership.  
+
+Without it, there's very little oversight into who becomes a leader, paid or volunter, within a church.
+
+Failures can be immediately dramatic.  But more likely, there is the "Leaven Effect": the slow, at first imperceptible, erosion of the Gospel.
+
+Yet, why is the risk high?
 
 It's very easy to accept on faith decisions made by the leadership as "annointings."  But in the same way that companies have boards of directors that turn the other way because they have been appointed by the CEO, churches can lack accountability because a clear vector for qualification is missing.
 
 This is how wolves enter leadership.
 
-Most people think wolves are easily discernible for overtly bad behavior.
+Most people think wolves are easily discernible for **overtly bad behavior.**
 
 But Jesus doesn't take that view.  In fact, he believes they can be very difficult to detect.
 
-As Scriptural literacy continues to fall within the church, evasion is easy.
+As Scriptural literacy continues to fall within the church, evasion, including self-deception by the well-intended, is easy.  Meaning: a wolf may not even know he is one due to self-deception and prideful Scriptural illiteracy.
 
 > [!NOTE] Matthew 7:15
 > Beware of false prophets who come disguised as harmless sheep but are really vicious wolves. 
@@ -22,7 +28,11 @@ The mistake is that if the person is "nice" or appears to have good intentions, 
 
 But we take the Scripture incorrectly.  We "imagine" that the person's conscious intent must be evil and vicious; therefore they are wolves.  When we can't believe that about someone, we assume the outward "harmless sheep" must be capable and a Christ follower.
 
-But the point of the Scripture is that it is not easy to detect.  Exterior behavior can cover the heart; and in fact, it is those with the proper outward behavior that can pose the greatest threats as Jesus warns.  They may pray publicly[^1], talk about generous giving[^2], and abide in the visible behaviors of the church[^3].
+But the point of the Scripture is that it is not easy to detect.  Exterior behavior can cover the heart; and in fact, it is those with the proper outward behavior that can pose the greatest threats as Jesus warns.  
+
+Who are often great candidates on the outside, but Jesus warns that those indicators aren't really right.
+
+They include longevity at the church and knows the procedures[^19], pray publicly[^1], talk about generous giving[^2], and abide in the visible behaviors of the church[^3].
 
 Anyone who is part of a church who wants to know what is best for your church must pay heed.
 
@@ -324,4 +334,5 @@ Don't fill an empty slot.  Plant seeds ready to bloom.
 [^15]: [Radiance Sunday Service | 11/27/2022 | A Case for Hope | Isaiah 52:1-12 - YouTube](https://youtube.com/clip/UgkxzvZegultbXrFnBqeYS5LaUMODr5tSW_B)
 [^16]: [Prosperity Gospel | Topics | Christianity Today](https://www.christianitytoday.com/ct/topics/p/prosperity-gospel/)
 [^17]:  Above all, my brothers and sisters, do not swear—not by heaven or by earth or by anything else. All you need to say is a simple “Yes” or “No.” Otherwise you will be condemned.
-[^18]: 17 As He was setting out on a journey, a man ran up to Him and knelt before Him, and asked Him, “Good Teacher, what shall I do so that I may inherit eternal life?” 18 But Jesus said to him, “Why do you call Me good? No one is good except God alone. 19 You know the commandments: ‘Do not murder, Do not commit adultery, Do not steal, Do not give false testimony, Do not defraud, Honor your father and mother.’” 20 And he said to Him, “Teacher, I have kept all these things from my youth.” 21 Looking at him, Jesus showed love to him and said to him, “One thing you lack: go and sell all you possess and give to the poor, and you will have treasure in heaven; and come, follow Me.” 22 But he was deeply dismayed by these words, and he went away grieving; for he was one who owned much property. (Mark10:17-27)
+[^18]: 17 As He was setting out on a journey, a man ran up to Him and knelt before Him, and asked Him, “Good Teacher, what shall I do so that I may inherit eternal life?” 18 But Jesus said to him, “Why do you call Me good? No one is good except God alone. 19 You know the commandments: ‘Do not murder, Do not commit adultery, Do not steal, Do not give false testimony, Do not defraud, Honor your father and mother.’” 20 And he said to Him, “Teacher, I have kept all these things from my youth.” 21 Looking at him, Jesus showed love to him and said to him, “One thing you lack: go and sell all you possess and give to the poor, and you will have treasure in heaven; and come, follow Me.” 22 But he was deeply dismayed by these words, and he went away grieving; for he was one who owned much property. (Mark 10:17-27)
+[^19]: You have let go of the commands of God and are holding on to human traditions.” And he continued, “You have a fine way of setting aside the commands of God in order to observe your own traditions! (Mark 7:8-9)
