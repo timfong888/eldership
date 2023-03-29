@@ -94,21 +94,27 @@ However, rather than seeking truth by dividing God's word and discovering how th
 #### Example 2
 From the pulpit to invite giving, an elder said the following:
 
-> *And I think this is the one thing that God has said, test me on it, right? Because he promised to bless us. It's not like a requirement in the Bible anymore, but it is something that we can do as an act of faith, as a way to stand up against what the world says, but stand up for what we believe in.*[^15]
+>And I think this is the one thing that God has said, test me on it, right? Because he promised to bless us. It's not like a requirement in the Bible anymore, but it is something that we can do as an act of faith, as a way to stand up against what the world says, but stand up for what we 
+>believe in.*[^15]
 
+On the one hand, this is not a true teaching, so we technically can't hold it to that standard.  There's no clear exposition.
 
-On the one hand, this is not a true teaching.  There's no clear exposition.  But it implies an understanding of Scripture which is not right.  
+However, it is from an elder before a congregation which uses Scripture.  This deserves at least **some** scrutiny because it implies an incorrect, potentially dangerous, interpretation and application.
 
 Again, the intent is not nitpicking every casual statement.  But if standing before a congregation and asking people for their money AND using Scripture to do so AND proclaiming what this act represents in terms of faith....this should be closer to the mark than it was.
 
-I spend more time on money, but consider the reference.
+I spend more time on money later, but consider the reference.
 
 "Test me in this" refers to Malachi 3:8-10, one of the most abused Scriptures:
 
 > [!NOTE] Malachi 3:8-10
 > **Bring the whole tithe into the storehouse, that there may be food in my house**. Test me in this,” says the LORD Almighty, “and see if I will not throw open the floodgates of heaven and pour out so much blessing that there will not be room enough to store it.
 
-Most heretical interpretation then proceed to talk about material blessings that come from God.
+Most heretical interpretations then proceed to talk about material blessings that come from God.
+
+There's not enough here to assume this is the intent.
+
+But there's not enough evidence to know it isn't, either.
 
 Learn more how to cultivate healthy relationship with money in your church and removing the prosperity gospel by clicking here, "[[Slaying Mammon: Creating Healthy Relationships with Money and God\|Slaying Mammon: Creating Healthy Relationships with Money and God]]".
 
