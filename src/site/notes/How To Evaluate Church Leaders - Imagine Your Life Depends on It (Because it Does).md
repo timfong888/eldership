@@ -5,6 +5,8 @@
 
 Members of the church, now more than at any time, need to have clear ways to discern proper leadership.  
 
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680113445/obsidian/image_inc7se.png)
+
 Without it, there's very little oversight into who becomes a leader, paid or volunter, within a church.
 
 Failures can be immediately dramatic.  But more likely, there is the "Leaven Effect": the slow, at first imperceptible, erosion of the Gospel.
@@ -54,9 +56,18 @@ Here are the five minimum viable requirements:
 > [!NOTE] Titus 1:9
 > He must hold firmly to the trustworthy message as it has been taught, so that he can encourage others by sound doctrine and refute those who oppose it. 
 
-The ability to teach is central, and is easily overlooked.
+The ability to teach is central to the qualification.  
 
-But it can be detected IF the right circumstances are put and people know what to look for.
+It's the foundation for people to come to faith.
+
+It's critical to prevent wayward doctrine.
+
+Yet this capability of often overlooked.
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680113616/obsidian/image_eqpidl.png)
+
+
+But it can be properly discerned IF the right circumstances are put and people know what to look for.
 
 The problem with most churches is that a) the right circumstances aren't put into place; b) people don't know what to look for.
 
@@ -122,7 +133,10 @@ The second, which doesn't have enough there, but would be worth a deep-dive in t
 
 When it comes to faith, is the person saying this giving according to Scripture?  We'll see how some church leaders building healthier relationships with money through transparency.
 
-### Expression of the Spiritual Gifts through Ephesians
+### Expression of the Spiritual Gifts According to Ephesians
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680113808/obsidian/image_qozqyq.png)
+
 
 > [!NOTE] Ephesians 4:7-16
 > And He Himself gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,  for the equipping of the saints for the work of ministry, for the [b]edifying of the body of Christ,  till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ;  that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting,  but, speaking the truth in love, may grow up in all things into Him who is the head—Christ—  from whom the whole body, joined and knit together by what every joint supplies, according to the effective working by which every part does its share, causes growth of the body for the edifying of itself in love
@@ -167,6 +181,9 @@ Why compromise?
 There could be something else going on and I talk about the Resistance to Rush in my message from Judges 7 when you're looking for the right people to get onto the bus.
 
 ### History of Fruitful Discipleship
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680114232/obsidian/image_niyne7.png)
+
 Remember, we want those who can teach God's word and his ways.  
 
 One essential commandment is discipleship.  
@@ -202,13 +219,22 @@ But the movement of the Spirit works differently 1:1.  But that one may just be 
 > [!NOTE] Matthew 6:24
 > No man can serve two masters: for either he. will hate the one, and love the other; or else. he will hold to the one, and despise the other. **Ye cannot serve God and mammon**.
 
-Mammon is not just an abstraction but a powerful spiritual force.  Ensuring a potential leader has a right relationship with money is a critical, but overlooked, step.
+Mammon is not just an abstraction.  It's a powerful spiritual force.  
+
+Ensuring a potential leader has a right relationship with money is a critical, but overlooked, step.
+
+![](https://res.cloudinary.com/dt9hlo5sw/image/upload/v1680114032/obsidian/image_louycu.png)
+
 
 Typically this is overlooked because pastors don't make much. 
 
-But some secular volunteer leaders can make....
+But some secular volunteer leaders can make an amount which distracts them.  It can corrupt thinking and teaching.
 
-How to address this?
+Note: I've met extremely wealthy Christians who clearly are focused on the Gospel and they are wealthy by God's hand.
+
+I've also met some for whom God is a means to their own comfort, and without being Joel Osteen about it.
+
+**How to address this?**
 
 Andy Crouch describes his effective antidote: generosity and transparency.[^14]
 
@@ -297,8 +323,7 @@ It's both the hardest part of following Jesus.  And the most freeing.
 
 Teaching to test won't weed them out.  And I do believe it's important to weed these out from leadership because the "Leaven Effect" I wrote about earlier.
 
-If you believe leadership matters, both in educating your flock how to discern, and in raising them, clicik here to learn how to enroll your church in Eldership: True Spiritual Leadership in an Age of Compromise.
-
+If you believe leadership matters, both in educating your flock how to discern, and in raising them, clicik here to learn how to enroll your church in **Eldership: True Spiritual Leadership in an Age of Compromise.**
 
 ### Why this matters
 A common recourse underlying decisions to perhaps lower the bar is a need to do this.  Fill the slots.  Maybe it's a fast-food approach to leadership of "on the job training" versus the brain surgeon approach of deep qualification.
@@ -322,6 +347,8 @@ How a conflict is handled.
 How an off-chance relationship could bloom or not.
 
 Don't fill an empty slot.  Plant seeds ready to bloom.
+
+***
 
 [^1]: When you pray, do not be like the hypocrites, who love to stand and pray in the synagogues and on street corners so that others may see them. Amen, I say to you, they have received their reward. (Matthew 6:5)
 [^2]: “Now a man named Ananias, together with his wife Sapphira, also sold a piece of property. With his wife’s full knowledge he kept back part of the money for himself, but brought the rest and put it at the apostles’ feet.” (Acts 5:1-2)
